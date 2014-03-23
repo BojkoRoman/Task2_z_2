@@ -1,0 +1,14 @@
+﻿Build started 24.03.2014 0:55:08.
+     1>Project "E:\Roman\Project Visual\Task2_z_2\Task2_z_2\Task2_z_2.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Task2_z_2.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Task2_z_2.cpp
+         Task2_z_2.cpp
+     1>e:\roman\project visual\task2_z_2\task2_z_2\task2_z_2.cpp(60): error C2440: '=' : cannot convert from 'void *' to 'COORDS *'
+                 Conversion from 'void*' to pointer to non-'void' requires an explicit cast
+     1>Done Building Project "E:\Roman\Project Visual\Task2_z_2\Task2_z_2\Task2_z_2.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.33
